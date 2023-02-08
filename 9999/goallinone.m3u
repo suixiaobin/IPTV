@@ -1,57 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="allinone",JJ斗地主官方
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",JJ斗地主官方
 http://192.168.1.185:35455/douyu/488743
-#EXTINF:-1 tvg-logo="" group-title="allinone",日月轮回888
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",日月轮回888
 http://192.168.1.185:35455/douyu/2293920
-#EXTINF:-1 tvg-logo="" group-title="allinone",雷疯小叔
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",雷疯小叔
 http://192.168.1.185:35455/douyu/291514
-#EXTINF:-1 tvg-logo="" group-title="allinone",长春老楊
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",长春老楊
 http://192.168.1.185:35455/douyu/3849585
-#EXTINF:-1 tvg-logo="" group-title="allinone",超级小桀
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",超级小桀
 http://192.168.1.185:35455/douyu/74751
-#EXTINF:-1 tvg-logo="" group-title="allinone",火龙果说电影
+#EXTINF:-1 tvg-logo="" group-title="斗鱼",火龙果说电影
 http://192.168.1.185:35455/douyu/9559158
-#EXTINF:-1 tvg-logo="" group-title="allinone",虎牙中式台球
+#EXTINF:-1 tvg-logo="" group-title="虎牙",王天一
+http://192.168.1.185:35455/huya/822251
+#EXTINF:-1 tvg-logo="" group-title="虎牙",虎牙中式台球
 http://192.168.1.185:35455/huya/880236
-#EXTINF:-1 tvg-logo="" group-title="allinone",周星星
+#EXTINF:-1 tvg-logo="" group-title="虎牙",周星星
 http://192.168.1.185:35455/huya/11342412
-#EXTINF:-1 tvg-logo="" group-title="allinone",JJ斗地主
+#EXTINF:-1 tvg-logo="" group-title="抖音",JJ斗地主
 http://192.168.1.185:35455/douyin/685317364746
-#EXTINF:-1 tvg-logo="" group-title="allinone",JJ高源
+#EXTINF:-1 tvg-logo="" group-title="抖音",JJ高源
 http://192.168.1.185:35455/douyin/418255309895
-#EXTINF:-1 tvg-logo="" group-title="allinone",jj掘开
+#EXTINF:-1 tvg-logo="" group-title="抖音",jj掘开
 http://192.168.1.185:35455/douyin/167727601199
-#EXTINF:-1 tvg-logo="" group-title="allinone",jj斗地主冠军杯
+#EXTINF:-1 tvg-logo="" group-title="抖音",jj斗地主冠军杯
 http://192.168.1.185:35455/douyin/313118614727
-#EXTINF:-1 tvg-logo="" group-title="allinone",乔氏大师赛
+#EXTINF:-1 tvg-logo="" group-title="抖音",乔氏大师赛
 http://192.168.1.185:35455/douyin?url=https://v.douyin.com/BUWNx4X
-#EXTINF:-1 tvg-logo="" group-title="allinone",康溪盛世
+#EXTINF:-1 tvg-logo="" group-title="抖音",康溪盛世
 http://192.168.1.185:35455/douyin/691880761581
-#EXTINF:-1 tvg-logo="" group-title="allinone",星牌旗舰店
+#EXTINF:-1 tvg-logo="" group-title="抖音",星牌旗舰店
 http://192.168.1.185:35455/douyin/722119760153
-#EXTINF:-1 tvg-logo="" group-title="allinone",神姐
+#EXTINF:-1 tvg-logo="" group-title="抖音",神姐
 http://192.168.1.185:35455/douyin/265458512447
-#EXTINF:-1 tvg-logo="" group-title="allinone",9哥
+#EXTINF:-1 tvg-logo="" group-title="抖音",9哥
 http://192.168.1.185:35455/douyin/63424502324
-#EXTINF:-1 tvg-logo="" group-title="allinone",禹龙海
+#EXTINF:-1 tvg-logo="" group-title="抖音",禹龙海
 http://192.168.1.185:35455/douyin/628857406017
-#EXTINF:-1 tvg-logo="" group-title="allinone",于德录
+#EXTINF:-1 tvg-logo="" group-title="抖音",于德录
 http://192.168.1.185:35455/douyin/856844148076
-#EXTINF:-1 tvg-logo="" group-title="allinone",杨少杰
+#EXTINF:-1 tvg-logo="" group-title="抖音",杨少杰
 http://192.168.1.185:35455/douyin/398619502640
-#EXTINF:-1 tvg-logo="" group-title="allinone",孔德京
+#EXTINF:-1 tvg-logo="" group-title="抖音",孔德京
 http://192.168.1.185:35455/douyin/974463871829
-#EXTINF:-1 tvg-logo="" group-title="allinone",台球阿远
+#EXTINF:-1 tvg-logo="" group-title="抖音",台球阿远
 http://192.168.1.185:35455/douyin/517070008910
-#EXTINF:-1 tvg-logo="" group-title="allinone",阿康
+#EXTINF:-1 tvg-logo="" group-title="抖音",阿康
 http://192.168.1.185:35455/douyin/445463575266
-#EXTINF:-1 tvg-logo="" group-title="allinone",飞飞台球
+#EXTINF:-1 tvg-logo="" group-title="抖音",飞飞台球
 http://192.168.1.185:35455/douyin/841282048415
-#EXTINF:-1 tvg-logo="" group-title="allinone",戴洋
+#EXTINF:-1 tvg-logo="" group-title="抖音",戴洋
 http://192.168.1.185:35455/douyin/185209096100
-#EXTINF:-1 tvg-logo="" group-title="allinone",陈喆
+#EXTINF:-1 tvg-logo="" group-title="抖音",陈喆
 http://192.168.1.185:35455/douyin/844205592008
-#EXTINF:-1 tvg-logo="" group-title="allinone",犟驴台球
+#EXTINF:-1 tvg-logo="" group-title="抖音",犟驴台球
 http://192.168.1.185:35455/douyin/986986017470
-
-
+#EXTINF:-1 tvg-logo="" group-title="抖音",新爱体育
+http://192.168.1.185:35455/douyin?url=https://v.douyin.com/By68kKg
+#EXTINF:-1 tvg-logo="" group-title="B站",犟驴台球
+http://192.168.1.185:35455/douyin/986986017470
