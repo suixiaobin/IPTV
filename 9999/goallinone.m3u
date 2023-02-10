@@ -61,5 +61,5 @@ http://192.168.1.185:35455/douyin/844205592008
 http://192.168.1.185:35455/douyin/986986017470
 #EXTINF:-1 tvg-logo="" group-title="抖音",新爱体育
 http://192.168.1.185:35455/douyin/
-#EXTINF:-1 tvg-logo="" group-title="B站",犟驴台球
-http://192.168.1.185:35455/douyin?url=https://v.douyin.com/B51BSjU/
+#EXTINF:-1 tvg-logo="" group-title="B站",足总杯
+http://192.168.1.185:35455/bilibili/22(?platform=h5&line=first&quality=10000)
