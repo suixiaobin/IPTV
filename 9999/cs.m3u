@@ -1,12 +1,29 @@
-3- #在抖音，记录美好生活#【乔氏台球梦之队】正在直播，来和我一起支持Ta吧。复制下方链接，打开【抖音】，直接观看直播！ https://v.douyin.com/BUWNx4X/
-0- #在抖音，记录美好生活#【李宝杰台球器材】正在直播，来和我一起支持Ta吧。复制下方链接，打开【抖音】，直接观看直播！ https://v.douyin.com/By6JXHL/
-8- #在抖音，记录美好生活#【袜哥阿康台球】正在直播，来和我一起支持Ta吧。复制下方链接，打开【抖音】，直接观看直播！ https://v.douyin.com/ByjnVf2/
-5..:/ 【飞飞台球的直播间】  点击打开https://v.douyin.com/ByjG9g2/  或长按复制此条消息，打开抖音，看TA直播
-0.:/ 【于德陆台球的直播间】  点击打开https://v.douyin.com/ByjWXJw/  或长按复制此条消息，打开抖音，看TA直播
-0:/ 【台球戴洋(乔氏台球桌)的直播间】  点击打开https://v.douyin.com/By6da9U/  或长按复制此条消息，打开抖音，看TA直播
-5-.【9哥台球的直播间】  点击打开https://v.douyin.com/Byjwnao/  或长按复制此条消息，打开抖:/ 音，看TA直播
-2-u【神姐儿台球的直播间】  点击打:/ 开https://v.douyin.com/ByjnLsR/  或长按复制此条消息，打开抖音，看TA直播
-9:/ 【台球阿远的直播间】  点击打开https://v.douyin.com/ByjoWNW/  或长按复制此条消息，打开抖音，看TA直播
-4:/ 【台球李胜超台球用品的直播间】  点击打开https://v.douyin.com/By6dYrR/  或长按复制此条消息，打开抖音，看TA直播
-6:/ 【田田台球的直播间】  点击打开https://v.douyin.com/ByjGtun/  或长按复制此条消息，打开抖音，看TA直播
-2- 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/By68kKg/
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育1
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育2
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育3
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育4
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育5
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育6
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育7
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="失效",CCTV16
+http://192.168.1.1:8888/udp/239.253.93.207:6385
+#EXTINF:-1 tvg-logo="" group-title="失效",CCTV16 4k
+http://192.168.1.1:8888/udp/239.253.93.208:6386
+#EXTINF:-1 tvg-logo="" group-title="失效",4K频道
+http://192.168.1.1:8888/udp/239.253.92.114:6187
+#EXTINF:-1 tvg-logo="" group-title="失效",CHC高清电影
+http://192.168.1.1:8888/udp/239.253.93.132:6300
+#EXTINF:-1 tvg-logo="" group-title="失效",CHC家庭影院
+http://192.168.1.1:8888/udp/239.253.93.133:6301
+#EXTINF:-1 tvg-logo="" group-title="失效",CHC动作电影
+http://192.168.1.1:8888/udp/239.253.93.134:6302
+#EXTINF:-1 tvg-logo="" group-title="测试",xxxx
+http://192.168.1.1:8888/udp/239.253.93.134:6302
