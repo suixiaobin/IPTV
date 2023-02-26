@@ -9,14 +9,10 @@ http://192.168.1.185:35455/douyu/291514
 http://192.168.1.185:35455/douyu/3849585
 #EXTINF:-1 tvg-logo="" group-title="斗鱼",超级小桀
 http://192.168.1.185:35455/douyu/74751
-#EXTINF:-1 tvg-logo="" group-title="斗鱼",火龙果说电影
-http://192.168.1.185:35455/douyu/9559158
 #EXTINF:-1 tvg-logo="" group-title="虎牙",王天一
 http://192.168.1.185:35455/huya/822251
 #EXTINF:-1 tvg-logo="" group-title="虎牙",虎牙中式台球
 http://192.168.1.185:35455/huya/880236
-#EXTINF:-1 tvg-logo="" group-title="虎牙",周星星
-http://192.168.1.185:35455/huya/11342412
 #EXTINF:-1 tvg-logo="" group-title="抖音",JJ斗地主
 http://192.168.1.185:35455/douyin/685317364746
 #EXTINF:-1 tvg-logo="" group-title="抖音",jj斗地主冠军杯
@@ -25,8 +21,10 @@ http://192.168.1.185:35455/douyin/313118614727
 http://192.168.1.185:35455/douyin/418255309895
 #EXTINF:-1 tvg-logo="" group-title="抖音",jj掘开
 http://192.168.1.185:35455/douyin/167727601199
-#EXTINF:-1 tvg-logo="" group-title="抖音",乔氏大师赛
+#EXTINF:-1 tvg-logo="" group-title="抖音",乔氏台球梦之队
 http://192.168.1.185:35455/douyin/827302537019
+#EXTINF:-1 tvg-logo="" group-title="抖音",JOY乔氏台球
+http://192.168.1.185:35455/douyin/392988839635
 #EXTINF:-1 tvg-logo="" group-title="抖音",康溪盛世
 http://192.168.1.185:35455/douyin/691880761581
 #EXTINF:-1 tvg-logo="" group-title="抖音",星牌旗舰店
