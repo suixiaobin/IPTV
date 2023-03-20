@@ -124,6 +124,33 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010126/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="海南易视腾IPV6",咪咕视频 8M1080
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010148/1.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="高码源",东方卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",北京卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",江苏卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",浙江卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",湖南卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",辽宁卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",黑龙江卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",山东卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",广东卫视 Max16M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",天津卫视 12M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",安徽卫视 12M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",深圳卫视 12M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="高码源",湖北卫视 12M1080
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #EXTINF:-1 tvg-logo="" group-title="百事通体育",百事通体育1
