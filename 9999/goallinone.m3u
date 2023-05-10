@@ -7,20 +7,12 @@ http://192.168.1.185:35455/douyu/2293920
 http://192.168.1.185:35455/douyu/291514
 #EXTINF:-1 tvg-logo="" group-title="斗鱼",长春老楊
 http://192.168.1.185:35455/douyu/3849585
-#EXTINF:-1 tvg-logo="" group-title="斗鱼",超级小桀
-http://192.168.1.185:35455/douyu/74751
-#EXTINF:-1 tvg-logo="" group-title="虎牙",王天一
-http://192.168.1.185:35455/huya/822251
 #EXTINF:-1 tvg-logo="" group-title="虎牙",虎牙中式台球
 http://192.168.1.185:35455/huya/880236
 #EXTINF:-1 tvg-logo="" group-title="抖音",JJ斗地主
 http://192.168.1.185:35455/douyin/685317364746
 #EXTINF:-1 tvg-logo="" group-title="抖音",jj斗地主冠军杯
 http://192.168.1.185:35455/douyin/313118614727
-#EXTINF:-1 tvg-logo="" group-title="抖音",JJ高源
-http://192.168.1.185:35455/douyin/418255309895
-#EXTINF:-1 tvg-logo="" group-title="抖音",jj掘开
-http://192.168.1.185:35455/douyin/167727601199
 #EXTINF:-1 tvg-logo="" group-title="抖音",乔氏台球梦之队
 http://192.168.1.185:35455/douyin/827302537019
 #EXTINF:-1 tvg-logo="" group-title="抖音",JOY乔氏台球
@@ -29,6 +21,8 @@ http://192.168.1.185:35455/douyin/392988839635
 http://192.168.1.185:35455/douyin/421122154966
 #EXTINF:-1 tvg-logo="" group-title="抖音",康溪盛世
 http://192.168.1.185:35455/douyin/691880761581
+#EXTINF:-1 tvg-logo="" group-title="抖音",康溪盛世阿超
+http://192.168.1.185:35455/douyin/979664514676
 #EXTINF:-1 tvg-logo="" group-title="抖音",星牌旗舰店
 http://192.168.1.185:35455/douyin/722119760153
 #EXTINF:-1 tvg-logo="" group-title="抖音",神姐
@@ -43,6 +37,14 @@ http://192.168.1.185:35455/douyin/628857983770602287
 http://192.168.1.185:35455/douyin/4841120669
 #EXTINF:-1 tvg-logo="" group-title="抖音",于德陆
 http://192.168.1.185:35455/douyin/856844148076
+#EXTINF:-1 tvg-logo="" group-title="抖音",杨少杰
+http://192.168.1.185:35455/douyin/398619502640
+#EXTINF:-1 tvg-logo="" group-title="抖音",孔德京
+http://192.168.1.185:35455/douyin/974463871829
+#EXTINF:-1 tvg-logo="" group-title="抖音",犟驴台球
+http://192.168.1.185:35455/douyin/986986017470
+#EXTINF:-1 tvg-logo="" group-title="抖音",杨帆
+http://192.168.1.185:35455/douyin/862507259401
 #EXTINF:-1 tvg-logo="" group-title="抖音",李胜超
 http://192.168.1.185:35455/douyin/733075460015
 #EXTINF:-1 tvg-logo="" group-title="抖音",阿康
@@ -51,75 +53,12 @@ http://192.168.1.185:35455/douyin/445463575266
 http://192.168.1.185:35455/douyin/334672859924
 #EXTINF:-1 tvg-logo="" group-title="抖音",飞飞台球
 http://192.168.1.185:35455/douyin/841282048415
-#EXTINF:-1 tvg-logo="" group-title="抖音",杨少杰
-http://192.168.1.185:35455/douyin/398619502640
-#EXTINF:-1 tvg-logo="" group-title="抖音",孔德京
-http://192.168.1.185:35455/douyin/974463871829
 #EXTINF:-1 tvg-logo="" group-title="抖音",戴洋
 http://192.168.1.185:35455/douyin/185209096100
 #EXTINF:-1 tvg-logo="" group-title="抖音",台球阿远
 http://192.168.1.185:35455/douyin/517070008910
 #EXTINF:-1 tvg-logo="" group-title="抖音",陈喆
 http://192.168.1.185:35455/douyin/844205592008
-#EXTINF:-1 tvg-logo="" group-title="抖音",犟驴台球
-http://192.168.1.185:35455/douyin/986986017470
 #EXTINF:-1 tvg-logo="" group-title="抖音",新爱体育
 http://192.168.1.185:35455/douyin/
-#EXTINF:-1 tvg-logo="" group-title="B站",足总杯
-http://192.168.1.185:35455/bilibili/22?platform=h5&line=first&quality=10000
-#EXTINF:-1 group-title="油管",EBC 東森新聞
-http://192.168.1.185:35455/youtube/R2iMq5LKXco
-#EXTINF:-1 group-title="油管",新宿
-http://192.168.1.185:35455/youtube/RQA5RcIZlAM
-#EXTINF:-1 group-title="油管",寰宇新聞台
-http://192.168.1.185:35455/youtube/B7Zp3d6xXWw
-#EXTINF:-1 group-title="油管",TVBS新聞台
-http://192.168.1.185:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1 group-title="油管",TVBS國際
-http://192.168.1.185:35455/youtube/CLr725SypZQ
-#EXTINF:-1 group-title="油管",TVBS NEWS
-http://192.168.1.185:35455/youtube/5yfiy9GUYT4
-#EXTINF:-1 group-title="油管",TVBS_HD
-http://192.168.1.185:35455/youtube/Ac24P_VZ05Q
-#EXTINF:-1 group-title="油管",台視新聞台
-http://192.168.1.185:35455/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="油管",华视新闻直播
-http://192.168.1.185:35455/youtube/wM0g8EoUZ_E
-#EXTINF:-1 group-title="油管",三立 iNEWS新聞
-http://192.168.1.185:35455/youtube/CKjSm5ZeehE
-#EXTINF:-1 group-title="油管",三立海外直播
-http://192.168.1.185:35455/youtube/FoBfXvlOR6I
-#EXTINF:-1 group-title="油管",三立+
-http://192.168.1.185:35455/youtube/EB4g7wecgTI
-#EXTINF:-1 group-title="油管",CTI中天新聞
-http://192.168.1.185:35455/youtube/_QbRXRnHMVY
-#EXTINF:-1 group-title="油管",中天亞洲台HD
-http://192.168.1.185:35455/youtube/oPx1u9WQrWg
-#EXTINF:-1 group-title="油管",中視新聞
-http://192.168.1.185:35455/youtube/TCnaIE_SAtM
-#EXTINF:-1 group-title="油管",民視新聞
-http://192.168.1.185:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1 group-title="油管",台視新聞台
-http://192.168.1.185:35455/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="油管",华视新闻
-http://192.168.1.185:35455/youtube/wM0g8EoUZ_E
-#EXTINF:-1 group-title="油管",鳳凰直播LIVE
-http://192.168.1.185:35455/youtube/xyyvJ_KgTlg
-#EXTINF:-1 group-title="油管",中天直播
-http://192.168.1.185:35455/youtube/kNKMz8c8U9g
-#EXTINF:-1 group-title="油管",CCTV中文国际
-http://192.168.1.185:35455/youtube/QTz6avPD4Ns
-#EXTINF:-1 group-title="油管",ABC New
-http://192.168.1.185:35455/youtube/w_Ma8oQLmSM
-#EXTINF:-1 group-title="油管",Sky New
-http://192.168.1.185:35455/youtube/9Auq9mYxFEE
-#EXTINF:-1 group-title="油管",Watch ABC
-http://192.168.1.185:35455/youtube/vOTiJkg1voo
-#EXTINF:-1 group-title="油管",NBC News NOW
-http://192.168.1.185:35455/youtube/WSnht5nBoe4
-#EXTINF:-1 group-title="油管",FRANCE 24 English
-http://192.168.1.185:35455/youtube/h3MuIUNCCzI
-#EXTINF:-1 group-title="油管",NDTV 24x7 Live
-http://192.168.1.185:35455/youtube/WB-y7_ymPJ4
-#EXTINF:-1 group-title="油管",GMA News
-http://192.168.1.185:35455/youtube/m_Tyae0D7Zc
+
