@@ -9,6 +9,28 @@ http://192.168.1.185:35455/douyu/291514
 http://192.168.1.185:35455/douyu/3849585
 #EXTINF:-1 tvg-logo="" group-title="虎牙",虎牙中式台球
 http://192.168.1.185:35455/huya/880236
+#EXTINF:-1 tvg-logo="" group-title="虎牙",虎牙中式台球副
+http://192.168.1.185:35455/huya/880369
+#EXTINF:-1 tvg-logo="" group-title="虎牙",中式台球苍穹
+http://192.168.1.185:35455/huya/cangqiong999
+#EXTINF:-1 tvg-logo="" group-title="虎牙",中式台球慕斯
+http://192.168.1.185:35455/huya/294526
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏TV1
+http://192.168.1.185:35455/huya/19197461
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏TV2
+http://192.168.1.185:35455/huya/19197462
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏13
+http://192.168.1.185:35455/huya/19197464
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏5
+http://192.168.1.185:35455/huya/18501053
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏7
+http://192.168.1.185:35455/huya/18152472
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏8
+http://192.168.1.185:35455/huya/19197437
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏10
+http://192.168.1.185:35455/huya/19197441
+#EXTINF:-1 tvg-logo="" group-title="虎牙",乔氏11
+http://192.168.1.185:35455/huya/19197444
 #EXTINF:-1 tvg-logo="" group-title="抖音",JJ斗地主
 http://192.168.1.185:35455/douyin/685317364746
 #EXTINF:-1 tvg-logo="" group-title="抖音",jj斗地主冠军杯
