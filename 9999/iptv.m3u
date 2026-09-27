@@ -9,6 +9,8 @@ http://192.168.1.1:5140/udp/239.253.92.191:6057?fcc=10.7.50.172:8027
 http://192.168.1.1:5140/udp/239.253.92.251:6141?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5高清" tvg-logo="" group-title="央视台", CCTV-5高清
 http://192.168.1.1:5140/udp/239.253.92.181:6046?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-5+高清" tvg-logo="" group-title="央视台", CCTV-5+高清
+http://192.168.1.1:5140/udp/239.253.92.82:8013?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-6高清" tvg-logo="" group-title="央视台", CCTV-6高清
 http://192.168.1.1:5140/udp/239.253.92.193:6058?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-7高清" tvg-logo="" group-title="央视台", CCTV-7高清
@@ -33,8 +35,6 @@ http://192.168.1.1:5140/udp/239.253.93.154:6322?fcc=10.7.50.172:8027
 http://192.168.1.1:5140/udp/239.253.94.35:6635?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17高清" tvg-logo="" group-title="央视台", CCTV-17高清
 http://192.168.1.1:5140/udp/239.253.93.150:6318?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV-5+高清" tvg-logo="" group-title="央视台", CCTV-5+高清
-http://192.168.1.1:5140/udp/239.253.92.82:8013?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="19" tvg-name="CGTN" tvg-logo="" group-title="央视台", CGTN
 http://192.168.1.1:5140/udp/239.253.92.15:8011?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-id="20" tvg-name="河北卫视高清" tvg-logo="" group-title="河北省台", 河北卫视高清
