@@ -1,35 +1,49 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="" group-title="超高清4K", CCTV-5
+http://192.168.1.1:5140/udp/239.253.92.181:6046?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="" group-title="超高清4K", CCTV-5+
+http://192.168.1.1:5140/udp/239.253.92.82:8013?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="超高清4K", CCTV-16
 http://192.168.1.1:5140/udp/239.253.92.117:6101?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="" group-title="超高清4K", CCTV-4K
 http://192.168.1.1:5140/udp/239.253.94.43:6468?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="" group-title="超高清4K", 多彩文体
+http://192.168.1.1:5140/udp/239.253.94.45:6574?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="" group-title="超高清4K", 北京卫视
 http://192.168.1.1:5140/udp/239.253.94.42:6467?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="" group-title="超高清4K", 东方卫视
+http://192.168.1.1:5140/udp/239.253.93.43:6646?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="" group-title="超高清4K", 天津卫视
+http://192.168.1.1:5140/udp/239.253.92.155:3011?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="" group-title="超高清4K", 湖南卫视
 http://192.168.1.1:5140/udp/239.253.93.37:6643?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="" group-title="超高清4K", 浙江卫视
 http://192.168.1.1:5140/udp/239.253.93.41:6645?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="" group-title="超高清4K", 江苏卫视
 http://192.168.1.1:5140/udp/239.253.93.39:6644?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="" group-title="超高清4K", 东方卫视
-http://192.168.1.1:5140/udp/239.253.93.43:6646?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="" group-title="超高清4K", 辽宁卫视
+http://192.168.1.1:5140/udp/239.253.92.151:3008?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="" group-title="超高清4K", 广东卫视
 http://192.168.1.1:5140/udp/239.253.94.56:6585?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="" group-title="超高清4K", 深圳卫视
 http://192.168.1.1:5140/udp/239.253.94.55:6584?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="" group-title="超高清4K", 山东卫视
 http://192.168.1.1:5140/udp/239.253.93.49:6648?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="" group-title="超高清4K", 重庆卫视
+http://192.168.1.1:5140/udp/239.253.92.152:3009?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="" group-title="超高清4K", 四川卫视
 http://192.168.1.1:5140/udp/239.253.93.45:6647?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="多彩文体" tvg-logo="" group-title="超高清4K", 多彩文体
-http://192.168.1.1:5140/udp/239.253.94.45:6574?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="多彩文体" tvg-logo="" group-title="超高清4K", 多彩文体
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="" group-title="超高清4K", 贵州卫视
+http://192.168.1.1:5140/udp/239.253.92.150:3007?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="" group-title="超高清4K", 江西卫视
+http://192.168.1.1:5140/udp/239.253.92.153:3010?fcc=10.7.50.172:8027
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="" group-title="超高清4K", 多彩文体 25
 http://192.168.1.1:5140/udp/239.253.94.44:6573?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="" group-title="超高清4K", CCTV-4K
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="" group-title="超高清4K", CCTV-4K 25
 http://192.168.1.1:5140/udp/239.253.93.134:6631?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="超高清4K", CCTV-16
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="超高清4K", CCTV-16 25
 http://192.168.1.1:5140/udp/239.253.92.119:6102?fcc=10.7.50.172:8027
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="" group-title="超高清4K", 北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="" group-title="超高清4K", 北京卫视 25
 http://192.168.1.1:5140/udp/239.253.94.41:6466?fcc=10.7.50.172:8027
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="" group-title="央视台", CCTV-1
 http://192.168.1.1:5140/udp/239.253.92.83:8012?fcc=10.7.50.172:8027
